@@ -1,14 +1,5 @@
 # InvesTool
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/axiaoxin-com/investool/)
-[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=axiaoxin-com.investool)](https://github.com/axiaoxin-com/investool)
-[![GitHub release](https://img.shields.io/github/release/axiaoxin-com/investool.svg)](https://gitHub.com/axiaoxin-com/investool/releases/)
-[![Github all releases](https://img.shields.io/github/downloads/axiaoxin-com/investool/total.svg)](https://gitHub.com/axiaoxin-com/investool/releases/)
-
-[![](./statics/img/sidenav_icon.png)](http://investool.axiaoxin.com?from=github)
-
-<http://investool.axiaoxin.com?from=github>
 
 InvesTool 项目是使用 Golang 实现的个人投资分析工具，主要是为了提高按基本面选股和基金筛选的效率工具。最初是本地的脚本，后来使用 Golang 实现提供命令行版本，目前主要以 Web 网页版为主实现相关功能。数据来源于东方财富网、亿牛网、新浪财经、天天基金。
 
@@ -365,15 +356,3 @@ OPTIONS:
 # 欢迎 Star
 
 [![Stargazers over time](https://starchart.cc/axiaoxin-com/investool.svg)](https://githuv.com/axiaoxin-com/investool)
-
-# 最后
-
-程序输出的所有数据与信息仅供参考，不构成投资建议。
-
-程序开发耗费个人大量业余时间，如果对您有帮助，您喜欢的话，感谢您的打赏，100 不嫌多 1 毛不嫌少，感谢您的支持。
-
-祝各位早日财务自由！
-
-| 微信                         | 支付宝                        |
-| ---------------------------- | ----------------------------- |
-| ![](./statics/img/wxpay.jpg) | ![](./statics/img/alipay.jpg) |
